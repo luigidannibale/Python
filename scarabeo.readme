@@ -2,7 +2,7 @@
 I got assigned this exercise at school, open the readme to read the hint (italian language).
 
    
-<!---   Abbiamo quattro giocatori che si sfidano a Scarabeo+. In ogni mano
+   Abbiamo quattro giocatori che si sfidano a Scarabeo+. In ogni mano
    di Scarabeo+, i giocatori, a turno, devono inserire una parola nel
    tabellone ed ottengono un punteggio, calcolato in base al valore
    delle lettere che compongono la parola inserita.
@@ -58,4 +58,4 @@ Il TIMEOUT per ciascun test è di 0.5 secondi
 ATTENZIONE: è proibito:
     - importare altre librerie
     - usare variabili globali
-    - aprire file ---!>
+    - aprire file
