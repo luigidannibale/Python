@@ -31,7 +31,7 @@ Nick_shuffle_service = True
 # Silence useless bug reports messages
 youtube_dl.utils.bug_reports_message = lambda: ''
 
-TOKEN = "OTEwMjYxMjY3NjE5NTI4NzI1.YZQQ3g.Aib6mhp5UqDOhnbgXwgj9Td0W60"
+TOKEN = "OTEwMjYxMjY3NjE5NTI4NzI1.YZQQ3g.LEHLsdcNd7GnZduZOvTDfGMq538"
 
 async def Print(message, text):
      await message.channel.send(text)
