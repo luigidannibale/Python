@@ -1,5 +1,0 @@
-Inizialmente vengono ricavati i dati su cui lavorare dal file, eseguendo tutti gli opportuni controlli.
-Una volta presi i dati ci si ricava la lunghezza standard per tutte le righe della matrice da costruitre, di conseguenza la lunghezza dell'immagine.
-Si comincia creando un rettangolo di sfondo corrispondente alla spaziatura verticale, di lì in poi si aggiunge una riga dell'immagine per volta con 
-conseguente rettangolo di spaziatura, fino ad arrivare alla creazione totale della matrice quindi dell'immagine.
-Viene in fine scitta l'immagine sul file, e vengono ritornate le dimensioni sotto forma di tupla.
