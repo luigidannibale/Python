@@ -4,7 +4,7 @@ from datetime import datetime
 import json
 
 """
-Change those variables as you please
+Suit those variables to your situation
 """
 ### Variables
 Database_json = "F:\database\speedtest-data.json"
